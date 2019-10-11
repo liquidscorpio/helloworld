@@ -164,6 +164,11 @@ Perl
 print "Hello World\n"
 ```
 
+Powershell
+-----
+```Write-Host "Hello, World!"
+```
+
 Processing
 -----
 ```processing
