@@ -167,7 +167,8 @@ print "Hello World\n"
 Powershell
 -----
 ```powershell
-Write-Host "Hello, World"```
+Write-Host "Hello, World"
+```
 
 Processing
 -----
