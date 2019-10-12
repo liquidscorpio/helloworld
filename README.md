@@ -166,8 +166,8 @@ print "Hello World\n"
 
 Powershell
 -----
-```Write-Host "Hello, World!"
-```
+```powershell
+Write-Host "Hello, World"```
 
 Processing
 -----
@@ -215,5 +215,11 @@ Rust
 fn main() {
   println!("Hello World");
 }
+```
+
+Scm_Chicken
+-----
+```SCM_Chicken
+(print "Hello World");
 ```
 
